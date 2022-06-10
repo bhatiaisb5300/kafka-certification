@@ -1,0 +1,11 @@
+CREATE TABLE products(
+PogId text,
+Supc text PRIMARY KEY,
+Brand text,
+Description text,
+Size text,
+Category text,
+SubCategory text,
+Country text,
+SellerCode text,
+);
